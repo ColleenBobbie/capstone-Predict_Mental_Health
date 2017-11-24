@@ -7,7 +7,7 @@ To understand these ballooning costs, several large scale epidemiological studie
 
 This project uses a C4.5 classification algorithm to predict mental health crises in patients with an accuracy of 81% and an AUC of 83% and a low False Negative rate of just 3.8%. 
 
-## Files in this project
+## Files in this repository
 
 ### FinalReport_CBobbie.pdf
   This is the final copy of the report includes a Literature Review on depression and anxiety in the United States, Data Preprocessing and Cleaning steps, the Results of this project, and Conclusions based on the results.
