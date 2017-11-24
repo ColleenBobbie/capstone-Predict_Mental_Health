@@ -1,5 +1,5 @@
 # Forecasting mental health crises: lowering healthcare costs using prevention and predictive analytics
-A final capstone for the Data Analytics, Big Data, and Predictive Analytics program at Ryerson University
+A final capstone project for the Data Analytics, Big Data, and Predictive Analytics program at Ryerson University
 
 ## Introduction
 Annual health care expenditures in the United States currently exceed 3.35 trillion dollars, averaging $10 345 per capita (Yoon et al. 2014). These costs are associated with rapid growth in medical prices and an aging population, suggesting that unless there are dramatic shifts in medical practices, these expenditures could increase rapidly in the coming years. 
